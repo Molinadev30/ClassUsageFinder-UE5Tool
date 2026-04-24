@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Class Usage Finder",
+	"Description": "Finds every file that references a given C++ class through TSubclassOf / soft-class / soft-object properties.",
+	"Category": "Editor",
+	"CreatedBy": "Ruben",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ClassUsageFinder",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
